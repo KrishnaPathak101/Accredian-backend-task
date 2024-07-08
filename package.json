@@ -20,6 +20,7 @@
     "express-validator": "^7.1.0",
     "googleapis": "^140.0.1",
     "jsonwebtoken": "^9.0.2",
+    "mysql2": "^3.10.2",
     "nodemailer": "^6.9.14",
     "nodemon": "^3.1.4",
     "prisma": "^5.16.1"
